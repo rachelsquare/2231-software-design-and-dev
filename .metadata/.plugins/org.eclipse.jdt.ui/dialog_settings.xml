@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="0" key="org.eclipse.jdt.uiformatter_pagemodify_dialog.last_focus"/>
+	<item value="true" key="org.eclipse.jdt.ui.codeformatter.create_profile_dialog.open_edit"/>
+	<item value="113" key="org.eclipse.jdt.uiformatter_pagemodify_dialog.preferred_x"/>
+	<item value="25" key="org.eclipse.jdt.uiformatter_pagemodify_dialog.preferred_y"/>
+	<item value="-1" key="org.eclipse.jdt.uiformatter_page.modify_dialog_tab_page.last_focus_index"/>
+	<item value="145" key="clean_up_save_particpant_modify_dialog.preferred_x"/>
+	<item value="25" key="clean_up_save_particpant_modify_dialog.preferred_y"/>
+	<item value="1035" key="clean_up_save_particpant_modify_dialog.preferred_width"/>
+	<item value="617" key="clean_up_save_particpant_modify_dialog.preferred_height"/>
+	<item value="1030" key="org.eclipse.jdt.uiformatter_pagemodify_dialog.preferred_height"/>
+	<item value="0" key="org.eclipse.jdt.uiformatter_page.white_space_tab_page.node"/>
+	<item value="1167" key="org.eclipse.jdt.uiformatter_pagemodify_dialog.preferred_width"/>
+	<item value="0" key="clean_up_save_particpant_modify_dialog.last_focus"/>
+	<item value="12" key="org.eclipse.jdt.uiformatter_page.line_wrapping_tab_page.last_category_index"/>
+	<item value="C:\Users\patel\Documents" key="org.eclipse.jdt.ui.lastextjar"/>
+	<item value="0" key="org.eclipse.jdt.uiformatter_page.white_space.java_view.inner"/>
+	<item value="0" key="org.eclipse.jdt.ui.last.selected.jre.kind2"/>
+	<section name="org.eclipse.ltk.ui.refactoring.settings">
+		<item value="true" key="updateSimilarElements"/>
+		<item value="1" key="updateSimilarElementsMatchStrategy"/>
+		<item value="false" key="updateTextualMatches"/>
+	</section>
+	<section name="org.eclipse.jdt.internal.ui.packageview.PackageExplorerPart">
+		<item value="2" key="layout"/>
+		<item value="true" key="group_libraries"/>
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;packageExplorer group_libraries=&quot;1&quot; layout=&quot;2&quot; linkWithEditor=&quot;0&quot; rootMode=&quot;1&quot; workingSetName=&quot;Aggregate for window 1345944634676&quot;&gt;&#x0D;&#x0A;&lt;customFilters userDefinedPatternsEnabled=&quot;false&quot;&gt;&#x0D;&#x0A;&lt;xmlDefinedFilters&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.StaticsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.buildship.ui.packageexplorer.filter.gradle.buildfolder&quot; isEnabled=&quot;true&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.mylyn.java.ui.MembersFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonJavaProjectsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer_patternFilterId_.*&quot; isEnabled=&quot;true&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonSharedProjectsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.SyntheticMembersFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.ContainedLibraryFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.internal.ui.PackageExplorer.HideInnerClassFilesFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.internal.ui.PackageExplorer.EmptyInnerPackageFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.m2e.MavenModuleFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.buildship.ui.packageexplorer.filter.gradle.subProject&quot; isEnabled=&quot;true&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.ClosedProjectsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.EmptyLibraryContainerFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.PackageDeclarationFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.ImportDeclarationFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonJavaElementFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.LibraryFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.CuAndClassFileFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.internal.ui.PackageExplorer.EmptyPackageFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonPublicFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.LocalTypesFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.FieldsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;/xmlDefinedFilters&gt;&#x0D;&#x0A;&lt;/customFilters&gt;&#x0D;&#x0A;&lt;/packageExplorer&gt;" key="memento"/>
+		<item value="false" key="linkWithEditor"/>
+		<item value="1" key="rootMode"/>
+	</section>
+	<section name="org.eclipse.jdt.internal.ui.dialogs.FilteredTypesSelectionDialog">
+		<item value="true" key="ShowStatusLine"/>
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History/&gt;" key="History"/>
+		<section name="DialogBoundsSettings">
+			<item value="600" key="DIALOG_WIDTH"/>
+			<item value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+			<item value="500" key="DIALOG_HEIGHT"/>
+			<item value="50" key="DIALOG_X_ORIGIN"/>
+			<item value="26" key="DIALOG_Y_ORIGIN"/>
+		</section>
+	</section>
+	<section name="NewClassWizardPage">
+		<item value="false" key="create_constructor"/>
+		<item value="true" key="create_unimplemented"/>
+	</section>
+	<section name="OptionalMessageDialog.hide.">
+		<item value="true" key="org.eclipse.jdt.ui.typecomment.deprecated"/>
+		<item value="false" key="SaveActions.slowWarningDialog"/>
+	</section>
+	<section name="org.eclipse.jdt.internal.ui.typehierarchy.QuickHierarchy">
+		<item value="true" key="org.eclipse.jdt.internal.ui.typehierarchy.HierarchyInformationControlDIALOG_USE_PERSISTED_SIZE"/>
+		<item value="400" key="org.eclipse.jdt.internal.ui.typehierarchy.HierarchyInformationControlDIALOG_HEIGHT"/>
+		<item value="500" key="org.eclipse.jdt.internal.ui.typehierarchy.HierarchyInformationControlDIALOG_WIDTH"/>
+		<item value="false" key="org.eclipse.jdt.internal.ui.typehierarchy.HierarchyInformationControlDIALOG_USE_PERSISTED_LOCATION"/>
+	</section>
+	<section name="RefactoringWizard.preview">
+		<item value="630" key="width"/>
+		<item value="400" key="height"/>
+	</section>
+	<section name="javadoc">
+		<item value="protected" key="access"/>
+		<item value="false" key="noindex"/>
+		<item value="C:\Users\patel\Downloads\workspace\Lab 13 - ArraySiftDown\javadoc.xml" key="antpath"/>
+		<item value="false" key="nodeprecatedlist"/>
+		<item value="true" key="use"/>
+		<item value="true" key="author"/>
+		<item value="false" key="nodeprecated"/>
+		<item value="false" key="nonavbar"/>
+		<item value="" key="docletpath"/>
+		<item value="/class/software/local/jdk-current/bin/javadoc" key="javadoc_command_history"/>
+		<item value="1.7" key="source"/>
+		<item value="true" key="version"/>
+		<item value="" key="docletname"/>
+		<item value="true" key="splitindex"/>
+		<item value="true" key="fromStandard"/>
+		<item value="false" key="notree"/>
+		<item value="C:\Users\patel\Downloads\workspace\Lab 13 - ArraySiftDown\doc" key="destdir"/>
+		<item value="-tag mathsubtypes:t:&quot;Mathematical Subtypes:&quot;&#x0D;&#x0A;-tag mathdefinitions:t:&quot;Mathematical Definitions:&quot;&#x0D;&#x0A;-tag mathmodel:t:&quot;Mathematical Model (abstract value and abstract invariant of this):&quot;&#x0D;&#x0A;-tag initially:t:&quot;Constructor(s) (initial abstract value(s) of this):&quot;&#x0D;&#x0A;-tag iterator:tm:&quot;Iterator String (abstract value of ~this):&quot;&#x0D;&#x0A;-tag convention:t:&quot;Representation Invariant (concrete invariant of $this):&quot;&#x0D;&#x0A;-tag correspondence:t:&quot;Abstraction Relation (interpretation mapping between $this and this):&quot;&#x0D;&#x0A;-tag param&#x0D;&#x0A;-tag return &#x0D;&#x0A;-tag aliases:cm:&quot;Aliases:&quot;&#x0D;&#x0A;-tag updates:cm:&quot;Updates:&quot;&#x0D;&#x0A;-tag replaces:cm:&quot;Replaces:&quot;&#x0D;&#x0A;-tag clears:cm:&quot;Clears:&quot;&#x0D;&#x0A;-tag requires:cm:&quot;Requires:&quot;&#x0D;&#x0A;-tag ensures:cm:&quot;Ensures:&quot;&#x0D;&#x0A;-tag maintains&#x0D;&#x0A;-tag decreases&#x0D;&#x0A;-tag throws -tag author -tag version -tag see -tag since&#x0D;&#x0A;" key="additionalparam"/>
+		<item value="true" key="openinbrowser"/>
+		<section name="projects">
+			<section name="HW 10 - mod">
+				<item value="C:\Users\patel\Downloads\workspace\HW 10 - mod\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\patel\Downloads\workspace\HW 10 - mod\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Project5 - SortingMachineWithHeapsort">
+				<item value="C:\Users\patel\Downloads\workspace\Project5 - SortingMachineWithHeapsort\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\patel\Downloads\workspace\Project5 - SortingMachineWithHeapsort\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Lab 11 - HW 15 - QueueInsertionSort">
+				<item value="C:\Users\patel\Downloads\workspace\Lab 11 - HW 15 - QueueInsertionSort\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\patel\Downloads\workspace\Lab 11 - HW 15 - QueueInsertionSort\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Lab 12 - HW 16 - QueueQuicksort">
+				<item value="C:\Users\patel\Downloads\workspace\Lab 12 - HW 16 - QueueQuicksort\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\patel\Downloads\workspace\Lab 12 - HW 16 - QueueQuicksort\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Lab 5 Sequence on Stack">
+				<item value="C:\Users\patel\Downloads\workspace\Lab 5 Sequence on Stack\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\patel\Downloads\workspace\Lab 5 Sequence on Stack\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Lab 8 - HashingExperiments">
+				<item value="C:\Users\patel\Downloads\workspace\Lab 8 - HashingExperiments\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\patel\Downloads\workspace\Lab 8 - HashingExperiments\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Project4 - SetOnBST">
+				<item value="C:\Users\patel\Downloads\workspace\Project4 - SetOnBST\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\patel\Downloads\workspace\Project4 - SetOnBST\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Test">
+				<item value="C:\Users\patel\Downloads\workspace\Test\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\patel\Downloads\workspace\Test\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="HW 12 - Binary Tree &amp; Recursion I">
+				<item value="C:\Users\patel\Downloads\workspace\HW 12 - Binary Tree &amp; Recursion I\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\patel\Downloads\workspace\HW 12 - Binary Tree &amp; Recursion I\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="HW 6 - Queue on Sequence">
+				<item value="C:\Users\patel\Downloads\workspace\HW 6 - Queue on Sequence\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\patel\Downloads\workspace\HW 6 - Queue on Sequence\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Lab 9 - BinaryTreeMethods">
+				<item value="C:\Users\patel\Downloads\workspace\Lab 9 - BinaryTreeMethods\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\patel\Downloads\workspace\Lab 9 - BinaryTreeMethods\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Lab 14 -HW 18 - StackWithLinkedList">
+				<item value="C:\Users\patel\Downloads\workspace\Lab 14 -HW 18 - StackWithLinkedList\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\patel\Downloads\workspace\Lab 14 -HW 18 - StackWithLinkedList\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Lab 4 - QueueOnSequence">
+				<item value="C:\Users\patel\Downloads\workspace\Lab 4 - QueueOnSequence\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\patel\Downloads\workspace\Lab 4 - QueueOnSequence\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Lab 2 - HW 2 - Smooth">
+				<item value="C:\Users\patel\Downloads\workspace\Lab 2 - HW 2 - Smooth\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\patel\Downloads\workspace\Lab 2 - HW 2 - Smooth\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Project1 - Word Counter">
+				<item value="C:\Users\patel\Downloads\workspace\Project1 - Word Counter\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\patel\Downloads\workspace\Project1 - Word Counter\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="HW 13 - Binary Trees Recursion II">
+				<item value="C:\Users\patel\Downloads\workspace\HW 13 - Binary Trees Recursion II\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\patel\Downloads\workspace\HW 13 - Binary Trees Recursion II\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="2321 - Lab 1">
+				<item value="C:\Users\patel\Downloads\workspace\2321 - Lab 1\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\patel\Downloads\workspace\2321 - Lab 1\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Lab 10 - BinarySearchTreeMethods">
+				<item value="C:\Users\patel\Downloads\workspace\Lab 10 - BinarySearchTreeMethods\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\patel\Downloads\workspace\Lab 10 - BinarySearchTreeMethods\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="2321 - Lab 2">
+				<item value="C:\Users\patel\Downloads\workspace\2321 - Lab 2\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\patel\Downloads\workspace\2321 - Lab 2\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Lab 3 - JUnitTestingRevisited">
+				<item value="C:\Users\patel\Downloads\workspace\Lab 3 - JUnitTestingRevisited\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\patel\Downloads\workspace\Lab 3 - JUnitTestingRevisited\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="MT">
+				<item value="C:\Users\patel\Downloads\workspace\MT\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\patel\Downloads\workspace\MT\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="HW 14 - BST isInTree">
+				<item value="C:\Users\patel\Downloads\workspace\HW 14 - BST isInTree\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\patel\Downloads\workspace\HW 14 - BST isInTree\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Lab 7 - HW 9 - MapOnQueue">
+				<item value="C:\Users\patel\Downloads\workspace\Lab 7 - HW 9 - MapOnQueue\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\patel\Downloads\workspace\Lab 7 - HW 9 - MapOnQueue\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="HW 3 - Smooth modify">
+				<item value="C:\Users\patel\Downloads\workspace\HW 3 - Smooth modify\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\patel\Downloads\workspace\HW 3 - Smooth modify\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Lab 1 - Sequence Palindrome">
+				<item value="C:\Users\patel\Downloads\workspace\Lab 1 - Sequence Palindrome\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\patel\Downloads\workspace\Lab 1 - Sequence Palindrome\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="HW 4 - int avg">
+				<item value="C:\Users\patel\Downloads\workspace\HW 4 - int avg\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\patel\Downloads\workspace\HW 4 - int avg\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Project3 - MapWithHashing">
+				<item value="C:\Users\patel\Downloads\workspace\Project3 - MapWithHashing\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\patel\Downloads\workspace\Project3 - MapWithHashing\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Project2 - NaturalNumberOnString">
+				<item value="C:\Users\patel\Downloads\workspace\Project2 - NaturalNumberOnString\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\patel\Downloads\workspace\Project2 - NaturalNumberOnString\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Lab 13 - ArraySiftDown">
+				<item value="C:\Users\patel\Downloads\workspace\Lab 13 - ArraySiftDown\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\patel\Downloads\workspace\Lab 13 - ArraySiftDown\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="HW 17 - BTSatisfiesHeapProperty">
+				<item value="C:\Users\patel\Downloads\workspace\HW 17 - BTSatisfiesHeapProperty\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\patel\Downloads\workspace\HW 17 - BTSatisfiesHeapProperty\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Lab 6 - HW 8 - SetOnQueue">
+				<item value="C:\Users\patel\Downloads\workspace\Lab 6 - HW 8 - SetOnQueue\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\patel\Downloads\workspace\Lab 6 - HW 8 - SetOnQueue\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="ProjectTemplate">
+				<item value="C:\Users\patel\Downloads\workspace\ProjectTemplate\javadoc.xml" key="antpath"/>
+				<item value="C:\Users\patel\Downloads\workspace\ProjectTemplate\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+		</section>
+	</section>
+	<section name="org.eclipse.jdt.internal.ui.wizards.buildpaths.NewVariableEntryDialog">
+		<item value="761" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="511" key="DIALOG_HEIGHT"/>
+		<item value="117" key="DIALOG_X_ORIGIN"/>
+		<item value="19" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="RenameInformationPopup">
+	</section>
+	<section name="JavadocWizardDialog">
+		<item value="818" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="718" key="DIALOG_HEIGHT"/>
+		<item value="9" key="DIALOG_Y_ORIGIN"/>
+		<item value="557" key="DIALOG_X_ORIGIN"/>
+	</section>
+	<section name="quick_assist_proposal_size">
+	</section>
+	<section name="BuildPathsPropertyPage">
+		<item value="2" key="pageIndex"/>
+	</section>
+	<section name="completion_proposal_size">
+		<item value="376" key="size.y"/>
+		<item value="557" key="size.x"/>
+	</section>
+	<section name="JavaElementSearchActions">
+	</section>
+</section>

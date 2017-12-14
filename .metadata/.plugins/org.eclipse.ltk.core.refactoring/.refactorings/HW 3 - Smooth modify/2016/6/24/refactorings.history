@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;SmoothModify.java&apos; to &apos;HW 3 - Smooth modify/src&apos;&#x0D;&#x0A;- Original project: &apos;HW 3 - Smooth modify&apos;&#x0D;&#x0A;- Destination element: &apos;HW 3 - Smooth modify/src&apos;&#x0D;&#x0A;- Original element: &apos;SmoothModify.java&apos;" description="Copy compilation unit" destination="/src" element1="/src&lt;{SmoothModify.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1465359044335" units="1" version="1.0"/>
+</session>

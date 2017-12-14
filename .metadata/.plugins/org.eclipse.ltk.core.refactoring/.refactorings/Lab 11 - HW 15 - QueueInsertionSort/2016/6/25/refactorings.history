@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move &apos;lines.txt&apos; to &apos;Lab 11 - HW 15 - QueueInsertionSort&apos;" description="Move &apos;lines.txt&apos; to &apos;Lab 11 - HW 15 - QueueInsertionSort&apos;" destination="/Lab 11 - HW 15 - QueueInsertionSort" element1="data/lines.txt" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1466037932069" updateReferences="true"/>
+</session>

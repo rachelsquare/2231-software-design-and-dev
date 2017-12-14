@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;3521 - AI Programming Assignments&apos; to &apos;3521 - PA 0&apos;&#x0D;&#x0A;- Original element: &apos;3521 - AI Programming Assignments&apos;&#x0D;&#x0A;- Renamed element: &apos;3521 - AI Programming Assignments&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;3521 - AI Programming Assignments&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=3521 - AI Programming Assignments" name="3521 - PA 0" references="true" stamp="1486144628015" version="1.0"/>
+</session>

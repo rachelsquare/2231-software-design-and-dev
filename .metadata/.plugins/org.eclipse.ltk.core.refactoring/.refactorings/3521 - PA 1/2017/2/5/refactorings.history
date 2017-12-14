@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;crossedRobots&apos; in &apos;bfs.agent(...)&apos; to &apos;crossed&apos;&#x0D;&#x0A;- Original project: &apos;3521 - PA 1&apos;&#x0D;&#x0A;- Original element: &apos;bfs.agent(String, String, int, Set&lt;Integer&gt;).crossedRobots&apos;&#x0D;&#x0A;- Renamed element: &apos;crossedRobots&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;crossedRobots&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;{bfs.java[bfs~agent~QString;~QString;~I~QSet\&lt;QInteger;&gt;;@crossedRobots!2475!2508!2482!2494!QString;!0!false" name="crossed" references="true" stamp="1486179036131" version="1.0"/>
+</session>

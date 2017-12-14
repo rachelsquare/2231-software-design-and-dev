@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move &apos;lines.txt&apos; to &apos;Lab 12 - HW 16 - QueueQuicksort&apos;" description="Move &apos;lines.txt&apos; to &apos;Lab 12 - HW 16 - QueueQuicksort&apos;" destination="/Lab 12 - HW 16 - QueueQuicksort" element1="data/lines.txt" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1466044422030" updateReferences="true"/>
+</session>

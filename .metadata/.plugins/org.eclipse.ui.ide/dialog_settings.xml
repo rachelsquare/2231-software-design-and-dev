@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="CleanDialogSettings">
+		<item value="662" key="DIALOG_WIDTH"/>
+		<item value="false" key="TOGGLE_SELECTED"/>
+		<item value="423" key="DIALOG_HEIGHT"/>
+		<item value="144" key="DIALOG_Y_ORIGIN"/>
+		<item value="359" key="DIALOG_X_ORIGIN"/>
+	</section>
+	<section name="ExternalProjectImportWizard">
+		<item value="true" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="true" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="true" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value=""/>
+			<item value="C:\Users\patel\Downloads\workspace\DemoGUI1"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value="C:\Users\patel\Documents\tang.794.zip"/>
+			<item value="C:\Users\patel\Downloads\EmailAccounts.zip"/>
+			<item value="C:\Users\patel\Documents\WaitingLineFamilyDesign.zip"/>
+			<item value="C:\Users\patel\Downloads\JavaIOExplorations.zip"/>
+			<item value="C:\Users\patel\Downloads\BLParser.zip"/>
+			<item value="C:\Users\patel\Downloads\ProgramCodeGenerator.zip"/>
+			<item value="C:\Users\patel\Downloads\WaitingLineFamilyDesign.zip"/>
+			<item value="C:\Users\patel\Downloads\JCFExplorations.zip"/>
+			<item value="C:\Users\patel\Downloads\BugsWorldVMInterpreter.zip"/>
+			<item value="C:\Users\patel\Downloads\ExpressionEvaluator.zip"/>
+			<item value="C:\Users\patel\Downloads\Tokenizer.zip"/>
+			<item value="C:\Users\patel\Documents\Program7FirstVersion.zip"/>
+			<item value="C:\Users\patel\Downloads\ProgramAndStatement.zip"/>
+			<item value="C:\Users\patel\Downloads\StatementPrettyPrint.zip"/>
+			<item value="C:\Users\patel\Downloads\ProgramPrettyPrint.zip"/>
+			<item value="C:\Users\patel\Downloads\StatementCountPrimitiveCalls.zip"/>
+			<item value="C:\Users\patel\Downloads\ListWithRetreat.zip"/>
+			<item value="C:\Users\patel\Downloads\ListWithTwoSmartNodes.zip"/>
+			<item value="C:\Users\patel\Downloads\ArraySiftDown.zip"/>
+			<item value="C:\Users\patel\Downloads\SortingMachineWithHeapsort.zip"/>
+		</list>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+	<section name="NewWizardAction">
+		<item value="org.eclipse.wst.web.ui.internal.wizards.SimpleWebProjectWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.wst.web.ui"/>
+		</list>
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item value="342" key="DIALOG_X_ORIGIN"/>
+		<item value="118" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="SaveAsDialogSettings">
+		<item value="700" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="645" key="DIALOG_HEIGHT"/>
+		<item value="342" key="DIALOG_X_ORIGIN"/>
+		<item value="9" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Sequence3.java&apos; to &apos;HW 7 - Lab 5 Sequence on Stack/src&apos;&#x0D;&#x0A;- Original project: &apos;SequenceOnStack&apos;&#x0D;&#x0A;- Destination element: &apos;HW 7 - Lab 5 Sequence on Stack/src&apos;&#x0D;&#x0A;- Original element: &apos;Sequence3.java&apos;" description="Copy compilation unit" destination="=HW 7 - Lab 5 Sequence on Stack/src" element1="/src&lt;{Sequence3.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1464018480088" units="1" version="1.0"/>
+</session>
